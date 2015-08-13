@@ -1,3 +1,4 @@
-class Conatact < ActiveRecord::Base
+class Contact < ActiveRecord::Base
+    
     
 end
